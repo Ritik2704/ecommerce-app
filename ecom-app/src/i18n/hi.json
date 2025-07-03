@@ -1,0 +1,17 @@
+{
+  "Header.logout": "लॉग आउट",
+  "Sidebar.home": "होम",
+  "Sidebar.orders": "ऑर्डर",
+  "Sidebar.categories": "श्रेणियाँ",
+  "Sidebar.cart": "कार्ट",
+  "HomePage.allProducts": "सभी उत्पाद",
+  "Cart.myCartItems": "मेरे कार्ट आइटम्स",
+  "Order.myOrders": "मेरे ऑर्डर",
+  "ProductCard.Rs.": "₹",
+  "ProductCard.viewDetails": "विवरण देखें",
+  "ProductDetails.addToCart": "कार्ट में डालें",
+  "Cart.clearCart": "कार्ट खाली करें",
+  "Cart.buyNow": "अभी खरीदें",
+  "Cart.Total": "कुल: ₹",
+  "Cart.empty": "अरे! कार्ट खाली है"
+}

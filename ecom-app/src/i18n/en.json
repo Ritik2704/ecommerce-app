@@ -1,0 +1,17 @@
+{
+  "Header.logout": "Logout",
+  "Sidebar.home": "Home",
+  "Sidebar.orders": "Orders",
+  "Sidebar.categories": "Categories",
+  "Sidebar.cart": "Cart",
+  "HomePage.allProducts": "All Products",
+  "Cart.myCartItems": "My Cart Items",
+  "Order.myOrders": "My Orders",
+  "ProductCard.Rs.": "Rs.",
+  "ProductCard.viewDetails": "View Details",
+  "ProductDetails.addToCart": "Add To Cart",
+  "Cart.clearCart": "Clear Cart",
+  "Cart.buyNow": "Buy Now",
+  "Cart.Total": "Total: Rs.",
+  "Cart.empty": "Oh ho! Cart is empty"
+}
