@@ -26,11 +26,11 @@ This is a full-stack e-commerce application built with:
 ## 🧪 Setup Instructions
 
 ### Backend
-1. Go to `/backend`
+1. Go to `/ecom-backend`
 2. Configure DB in `application.properties`
 3. Run via IDE or `./mvnw spring-boot:run`
 
 ### Frontend
-1. Go to `/frontend`
+1. Go to `/ecom-app`
 2. Run `npm install`
 3. Run `npm start`
